@@ -1,0 +1,704 @@
+Faculty,Day,Time Slot,Subject
+Dr.M.Umadevi,Monday,10:20 - 11:15,DAA-2A
+Dr.M.Umadevi,Monday,11:15 - 12:10,DAA-2K
+Dr.M.Umadevi,Tuesday,10:20 - 11:15,DAA-2A-T
+Dr.M.Umadevi,Wednesday,08:15 - 09:10,DAA-K
+Dr.M.Umadevi,Wednesday,11:15 - 12:10,DAA-2K-P
+Dr.M.Umadevi,Thursday,02:55 - 03:50,DAA-2A-P
+Dr.M.Umadevi,Friday,10:20 - 11:15,DAA-2K-T
+Dr.M.Umadevi,Saturday,10:20 - 11:15,DAA-2A
+Dr. P. Siva Prasad,Tuesday,12:10 - 01:05,TOC
+Dr. P. Siva Prasad,Wednesday,12:10 - 01:05,TOC
+Dr. P. Siva Prasad,Thursday,09:10 - 10:05,TOC
+Dr. P. Siva Prasad,Thursday,10:20 - 11:15,ML
+Dr. P. Siva Prasad,Thursday,11:15 - 12:10,Counselling
+Dr. P. Siva Prasad,Thursday,02:55 - 03:50,ML
+Dr. P. Siva Prasad,Friday,09:10 - 10:05,ML
+Dr. P. Siva Prasad,Friday,11:15 - 12:10,ML
+Dr. P. Siva Prasad,Friday,02:00 - 02:55,TOC
+Dr. P. Siva Prasad,Friday,02:55 - 03:50,TOC
+Dr. P. Siva Prasad,Saturday,08:15 - 09:10,ML
+Dr. P. Siva Prasad,Saturday,09:10 - 10:05,ML
+Dr. Jhansi Lakshmi P.,Monday,12:10 - 01:05,TOC
+Dr. Jhansi Lakshmi P.,Wednesday,02:00 - 02:55,ML
+Dr. Jhansi Lakshmi P.,Thursday,10:20 - 11:15,TOC - T
+Dr. Jhansi Lakshmi P.,Thursday,02:00 - 02:55,ML
+Dr. Jhansi Lakshmi P.,Friday,08:15 - 09:10,ML
+Dr. Jhansi Lakshmi P.,Friday,10:20 - 11:15,TOC
+Dr. Jhansi Lakshmi P.,Friday,02:55 - 03:50,ML - P
+Dr. Jhansi Lakshmi P.,Saturday,10:20 - 11:15,ML
+Dr. Jhansi Lakshmi P.,Saturday,02:55 - 03:50,TOC
+Dr. Satish Kumar Satti,Monday,10:20 - 11:15,DAA (L)
+Dr. Satish Kumar Satti,Monday,02:00 - 02:55,DAA-P (B)
+Dr. Satish Kumar Satti,Tuesday,08:15 - 09:10,DAA-T (B)
+Dr. Satish Kumar Satti,Wednesday,02:00 - 02:55,DAA (L)
+Dr. Satish Kumar Satti,Thursday,10:20 - 11:15,DAA (B)
+Dr. Satish Kumar Satti,Thursday,11:15 - 12:10,DAA-T (L)
+Dr. Satish Kumar Satti,Friday,08:15 - 09:10,DAA-P (L)
+Dr. Satish Kumar Satti,Saturday,02:55 - 03:50,COUN
+Dr. Md Oqail Ahmad,Monday,02:00 - 02:55,PP-OE N-501
+Dr. Md Oqail Ahmad,Tuesday,02:00 - 02:55,PP-OE N-501
+Dr. Md Oqail Ahmad,Wednesday,02:00 - 02:55,CC-M.TECH 308
+Dr. Md Oqail Ahmad,Thursday,08:15 - 09:10,CAPSTAN PROJECT
+Dr. Md Oqail Ahmad,Thursday,10:20 - 11:15,FP-2J N-412
+Dr. Md Oqail Ahmad,Friday,02:00 - 02:55,CC-LAB M.TECH 308
+Dr. Md Oqail Ahmad,Saturday,08:15 - 09:10,CCPS-2E N-401
+Dr. Md Oqail Ahmad,Saturday,02:55 - 03:50,CC-M.TECH 308
+Dr. Prashant Upadhyay,Monday,02:00 - 02:55,OE-PP
+Dr. Prashant Upadhyay,Tuesday,08:15 - 09:10,DIP-3E
+Dr. Prashant Upadhyay,Tuesday,02:00 - 02:55,OE-PP
+Dr. Prashant Upadhyay,Wednesday,08:15 - 09:10,DIP-3E
+Dr. Prashant Upadhyay,Wednesday,02:55 - 03:50,DIP-PG
+Dr. Prashant Upadhyay,Thursday,08:15 - 09:10,Capstron Project
+Dr. Prashant Upadhyay,Friday,11:15 - 12:10,DIP-3E-L
+Dr. Prashant Upadhyay,Friday,02:55 - 03:50,DIP-PG-L
+Dr. Prashant Upadhyay,Saturday,09:10 - 10:05,DIP-3E
+Dr. Prashant Upadhyay,Saturday,11:15 - 12:10,DIP-3E
+Dr. M. Sunil Babu,MON,08:15 - 09:10,PDC-G
+Dr. M. Sunil Babu,MON,10:05 - 10:20,BREAK
+Dr. M. Sunil Babu,MON,10:20 - 11:15,PDC-G
+Dr. M. Sunil Babu,MON,12:10 - 01:05,PDC-A
+Dr. M. Sunil Babu,MON,01:05 - 02:00,LUNCH
+Dr. M. Sunil Babu,TUE,09:10 - 10:05,PDC-A
+Dr. M. Sunil Babu,WED,12:10 - 01:05,PDC-G
+Dr. M. Sunil Babu,FRI,10:20 - 11:15,PDC-G(T)
+Dr. M. Sunil Babu,FRI,12:10 - 01:05,PDC-A
+Dr. M. Sunil Babu,SAT,10:20 - 11:15,PDC-G(T)
+Dr. M. Sunil Babu,SAT,02:00 - 02:55,PDC-A(T)
+Dr. M. Sunil Babu,SAT,02:55 - 03:50,PDC-A(T)
+Dr. Vinoj J,Monday,08:15 - 09:10,SE-D
+Dr. Vinoj J,Monday,10:20 - 11:15,CC
+Dr. Vinoj J,Monday,02:55 - 03:50,SE-C
+Dr. Vinoj J,Tuesday,08:15 - 09:10,SE-D
+Dr. Vinoj J,Tuesday,11:15 - 12:10,SE-D
+Dr. Vinoj J,Wednesday,10:20 - 11:15,SE-C
+Dr. Vinoj J,Thursday,09:10 - 10:05,IDP
+Dr. Vinoj J,Thursday,11:15 - 12:10,CC
+Dr. Vinoj J,Thursday,02:00 - 02:55,SE-C
+Dr. Vinoj J,Friday,08:15 - 09:10,IDP
+Dr. Vinoj J,Friday,02:00 - 02:55,SE-C
+Dr. Vinoj J,Saturday,10:20 - 11:15,SE-D
+Dr. R. Renugadevi,MON,08:15 - 09:10,PP-Sec-1-Lab
+Dr. R. Renugadevi,MON,10:05 - 10:20,BREAK
+Dr. R. Renugadevi,MON,01:05 - 02:00,LUNCH
+Dr. R. Renugadevi,TUE,09:10 - 10:05,PP-Sec-1
+Dr. R. Renugadevi,TUE,10:20 - 11:15,PP-Sec-2-Lab
+Dr. R. Renugadevi,WED,08:15 - 09:10,PP-Sec-2
+Dr. R. Renugadevi,WED,02:00 - 02:55,C-Lab-Sec-1
+Dr. R. Renugadevi,THU,11:15 - 12:10,PP-Sec-1
+Dr. R. Renugadevi,FRI,11:15 - 12:10,PP-Sec-2
+Dr. R. Renugadevi,FRI,02:00 - 02:55,C-Lab-Sec-2
+Dr. R. Renugadevi,SAT,08:15 - 09:10,PP-Sec-1
+Dr. R. Renugadevi,SAT,12:10 - 01:05,PP-Sec-2
+Dr. Saubhagya Ranjan Biswal,Monday,08:15 - 09:10,PP LAB
+Dr. Saubhagya Ranjan Biswal,Monday,01:05 - 02:00,PP
+Dr. Saubhagya Ranjan Biswal,Monday,02:55 - 03:50,PP
+Dr. Saubhagya Ranjan Biswal,Tuesday,08:15 - 09:10,PP LAB
+Dr. Saubhagya Ranjan Biswal,Tuesday,02:00 - 02:55,PIC LAB
+Dr. Saubhagya Ranjan Biswal,Wednesday,09:10 - 10:05,PP
+Dr. Saubhagya Ranjan Biswal,Wednesday,10:20 - 11:15,PIC
+Dr. Saubhagya Ranjan Biswal,Wednesday,12:10 - 01:05,PP
+Dr. Saubhagya Ranjan Biswal,Thursday,11:15 - 12:10,PIC LAB
+Dr. Saubhagya Ranjan Biswal,Friday,10:20 - 11:15,PP
+Dr. Saubhagya Ranjan Biswal,Friday,01:05 - 02:00,PP
+Dr. Saubhagya Ranjan Biswal,Saturday,12:10 - 01:05,PIC
+Dr. V. S. R. Pavan Kumar Neeli,MON,08:15 - 09:10,PP Lab
+Dr. V. S. R. Pavan Kumar Neeli,MON,10:05 - 10:20,BREAK
+Dr. V. S. R. Pavan Kumar Neeli,MON,10:20 - 11:15,PP
+Dr. V. S. R. Pavan Kumar Neeli,MON,12:10 - 01:05,LUNCH
+Dr. V. S. R. Pavan Kumar Neeli,TUE,08:15 - 09:10,PP Lab
+Dr. V. S. R. Pavan Kumar Neeli,WED,11:15 - 12:10,PP
+Dr. V. S. R. Pavan Kumar Neeli,WED,02:00 - 02:55,PIC Lab
+Dr. V. S. R. Pavan Kumar Neeli,THU,09:10 - 10:05,PIC Lab
+Dr. V. S. R. Pavan Kumar Neeli,THU,10:20 - 11:15,PP
+Dr. V. S. R. Pavan Kumar Neeli,THU,01:05 - 02:00,PP
+Dr. V. S. R. Pavan Kumar Neeli,FRI,09:10 - 10:05,PP
+Dr. V. S. R. Pavan Kumar Neeli,FRI,10:20 - 11:15,PP
+Dr. V. S. R. Pavan Kumar Neeli,SAT,11:15 - 12:10,PIC Lab
+Dr. N. Sameera,Monday,09:10 - 10:05,ToC 2D
+Dr. N. Sameera,Monday,10:20 - 11:15,ToC 2O
+Dr. N. Sameera,Monday,11:15 - 12:10,ToC 2O
+Dr. N. Sameera,Tuesday,08:15 - 09:10,ToC 2D
+Dr. N. Sameera,Tuesday,09:10 - 10:05,ToC 2D
+Dr. N. Sameera,Tuesday,02:00 - 02:55,FP 2O
+Dr. N. Sameera,Tuesday,02:55 - 03:50,FP 2O
+Dr. N. Sameera,Wednesday,10:20 - 11:15,ToC 2O
+Dr. N. Sameera,Thursday,10:20 - 11:15,ToC 2O
+Dr. N. Sameera,Friday,12:10 - 01:05,ToC 2D
+Dr. N. Sameera,Saturday,09:10 - 10:05,ToC 2D
+Dr. N. Sameera,Saturday,10:20 - 11:15,ToC 2O
+Dr. O. Bhaskar,Monday,10:20 - 11:15,OS-2R
+Dr. O. Bhaskar,Monday,02:00 - 02:55,FP
+Dr. O. Bhaskar,Tuesday,08:15 - 09:10,OS-2R
+Dr. O. Bhaskar,Tuesday,10:20 - 11:15,OS-2E-P
+Dr. O. Bhaskar,Wednesday,10:20 - 11:15,OS-2R
+Dr. O. Bhaskar,Thursday,08:15 - 09:10,OS-2E
+Dr. O. Bhaskar,Thursday,11:15 - 12:10,IDP
+Dr. O. Bhaskar,Thursday,02:55 - 03:50,3C-IDP
+Dr. O. Bhaskar,Friday,08:15 - 09:10,OS-2R-P
+Dr. O. Bhaskar,Friday,12:10 - 01:05,OS
+Dr. O. Bhaskar,Friday,01:05 - 02:00,COUNS
+Dr. O. Bhaskar,Saturday,12:10 - 01:05,OS-2E
+Dr. Manoj Kumar Merugumal,Monday,10:20 - 11:15,PP Lab
+Dr. Manoj Kumar Merugumal,Monday,11:15 - 12:10,PP Lab
+Dr. Manoj Kumar Merugumal,Tuesday,08:15 - 09:10,PDC
+Dr. Manoj Kumar Merugumal,Tuesday,02:00 - 02:55,PP
+Dr. Manoj Kumar Merugumal,Wednesday,11:15 - 12:10,PDC
+Dr. Manoj Kumar Merugumal,Thursday,11:15 - 12:10,PDC
+Dr. Manoj Kumar Merugumal,Thursday,02:00 - 02:55,C Practice
+Dr. Manoj Kumar Merugumal,Thursday,02:55 - 03:50,C Practice
+Dr. Manoj Kumar Merugumal,Friday,10:20 - 11:15,PP
+Dr. Manoj Kumar Merugumal,Saturday,08:15 - 09:10,PP
+Dr. Manoj Kumar Merugumal,Saturday,09:10 - 10:05,PDC
+Dr. Manoj Kumar Merugumal,Saturday,12:10 - 01:05,C Pract
+Dr. Manoj Kumar Merugumal,Saturday,02:00 - 02:55,PDC
+Dr. Manoj Kumar Merugumal,Saturday,02:55 - 03:50,C Pract
+Dr. Rambabu Kusuma,Monday,09:10 - 10:05,PP
+Dr. Rambabu Kusuma,Monday,10:20 - 11:15,PP
+Dr. Rambabu Kusuma,Tuesday,09:10 - 10:05,PP
+Dr. Rambabu Kusuma,Tuesday,10:20 - 11:15,PP
+Dr. Rambabu Kusuma,Tuesday,01:05 - 02:00,CP
+Dr. Rambabu Kusuma,Tuesday,02:00 - 02:55,CP
+Dr. Rambabu Kusuma,Tuesday,02:55 - 03:50,CP
+Dr. Rambabu Kusuma,Wednesday,10:20 - 11:15,PP
+Dr. Rambabu Kusuma,Thursday,10:20 - 11:15,PP
+Dr. Rambabu Kusuma,Thursday,11:15 - 12:10,PP
+Dr. Rambabu Kusuma,Thursday,01:05 - 02:00,CP
+Dr. Rambabu Kusuma,Thursday,02:00 - 02:55,CP
+Dr. Rambabu Kusuma,Thursday,02:55 - 03:50,CP
+Dr. Rambabu Kusuma,Friday,09:10 - 10:05,PP
+Dr. Rambabu Kusuma,Friday,02:55 - 03:50,PP
+Dr. G. Balu Narasimha Rao,Monday,08:15 - 09:10,DAA-2C
+Dr. G. Balu Narasimha Rao,Monday,12:10 - 01:05,DAA-2G
+Dr. G. Balu Narasimha Rao,Tuesday,10:20 - 11:15,DAA-2C-P
+Dr. G. Balu Narasimha Rao,Wednesday,10:20 - 11:15,DAA-G
+Dr. G. Balu Narasimha Rao,Thursday,10:20 - 11:15,DAA-2C-T
+Dr. G. Balu Narasimha Rao,Thursday,12:10 - 01:05,COUNS-2B
+Dr. G. Balu Narasimha Rao,Friday,08:15 - 09:10,DAA-2C
+Dr. G. Balu Narasimha Rao,Friday,09:10 - 10:05,2B
+Dr. G. Balu Narasimha Rao,Friday,02:55 - 03:50,DAA-2G-T
+Dr. G. Balu Narasimha Rao,Saturday,10:20 - 11:15,DAA-2P
+Dr. G. Balu Narasimha Rao,Saturday,12:10 - 01:05,2B
+Mrs. B. Suvarna,Monday,02:55 - 03:50,TOC-2M-T
+Mrs. B. Suvarna,Tuesday,09:10 - 10:05,TOC-2M
+Mrs. B. Suvarna,Tuesday,12:10 - 01:05,TOC-2A
+Mrs. B. Suvarna,Wednesday,10:20 - 11:15,TOC-A
+Mrs. B. Suvarna,Wednesday,02:55 - 03:50,TOC-2M
+Mrs. B. Suvarna,Thursday,08:15 - 09:10,TOC-2A-T
+Mrs. B. Suvarna,Friday,12:10 - 01:05,TOC-2A
+Mrs. B. Suvarna,Saturday,08:15 - 09:10,TOC-2M
+Mrs. B. Suvarna,Saturday,10:20 - 11:15,FP-2A
+Mrs. G. Parimala,MON,10:20 - 11:15,II A - OS
+Mrs. G. Parimala,MON,02:00 - 02:55,II A - OS
+Mrs. G. Parimala,TUE,09:10 - 10:05,II O - OS
+Mrs. G. Parimala,WED,10:20 - 11:15,II O - OS lab
+Mrs. G. Parimala,WED,11:15 - 12:10,II O - OS lab
+Mrs. G. Parimala,THU,10:20 - 11:15,II O - OS
+Mrs. G. Parimala,FRI,12:10 - 01:05,II O - OS
+Mrs. G. Parimala,SAT,08:15 - 09:10,II A - OS Lab
+Mrs. G. Parimala,SAT,09:10 - 10:05,II A - OS Lab
+Mr. R. Prathap Kumar,MON,08:15 - 09:10,FP
+Mr. R. Prathap Kumar,MON,02:00 - 02:55,DAA-2E
+Mr. R. Prathap Kumar,TUE,10:20 - 11:15,DAA-Q
+Mr. R. Prathap Kumar,TUE,02:00 - 02:55,DAA-2E-P
+Mr. R. Prathap Kumar,WED,11:15 - 12:10,DAA-2Q-T
+Mr. R. Prathap Kumar,THU,10:20 - 11:15,DAA-2E-T
+Mr. R. Prathap Kumar,FRI,08:15 - 09:10,DAA-2E
+Mr. R. Prathap Kumar,FRI,12:10 - 01:05,DAA-2Q
+Mr. R. Prathap Kumar,SAT,02:55 - 03:50,DAA-2Q-P
+Mrs. M. Bhargavi,TUE,10:20 - 11:15,CNS(L) 3G
+Mrs. M. Bhargavi,TUE,02:00 - 02:55,CNS 3B
+Mrs. M. Bhargavi,WED,11:15 - 12:10,CNS(L)-3B
+Mrs. M. Bhargavi,WED,02:00 - 02:55,CNS-3G
+Mrs. M. Bhargavi,THU,10:20 - 11:15,CNS-3G
+Mrs. M. Bhargavi,FRI,08:15 - 09:10,CNS-3B
+Mrs. M. Bhargavi,FRI,09:10 - 10:05,CNS-3G
+Mrs. M. Bhargavi,SAT,02:55 - 03:50,CNS-3B
+Mrs. M. Bhargavi,SAT,03:50 - 04:45,CNS-3G
+Mrs. SD. Shareefunnisa,Monday,10:20 - 11:15,PDC-F
+Mrs. SD. Shareefunnisa,Tuesday,11:15 - 12:10,PDC-I
+Mrs. SD. Shareefunnisa,Wednesday,08:15 - 09:10,PDC-I
+Mrs. SD. Shareefunnisa,Wednesday,01:05 - 02:00,PDC-F
+Mrs. SD. Shareefunnisa,Thursday,09:10 - 10:05,PDC-F
+Mrs. SD. Shareefunnisa,Thursday,02:55 - 03:50,PDC-I
+Mrs. SD. Shareefunnisa,Friday,02:55 - 03:50,PDC-I
+Mrs. SD. Shareefunnisa,Saturday,12:10 - 01:05,PDC-F
+Mr. K. Pavan Kumar,Monday,09:10 - 10:05,TOC-2P
+Mr. K. Pavan Kumar,Monday,11:15 - 12:10,TOC-2H
+Mr. K. Pavan Kumar,Tuesday,08:15 - 09:10,TOC-2P
+Mr. K. Pavan Kumar,Tuesday,02:00 - 02:55,TOC-2P
+Mr. K. Pavan Kumar,Wednesday,02:00 - 02:55,TOC-2H-T
+Mr. K. Pavan Kumar,Thursday,09:10 - 10:05,TOC-2H
+Mr. K. Pavan Kumar,Thursday,12:10 - 01:05,COUNS
+Mr. K. Pavan Kumar,Thursday,02:55 - 03:50,FP
+Mr. K. Pavan Kumar,Friday,10:20 - 11:15,TOC-2H
+Mr. K. Pavan Kumar,Saturday,02:55 - 03:50,TOC-2P-T
+Mr. Kiran Kumar Kaveti,Monday,10:20 - 11:15,CNS-3C
+Mr. Kiran Kumar Kaveti,Monday,02:00 - 02:55,CNS-3H
+Mr. Kiran Kumar Kaveti,Tuesday,09:10 - 10:05,CNS-3C
+Mr. Kiran Kumar Kaveti,Tuesday,11:15 - 12:10,IDP-3H
+Mr. Kiran Kumar Kaveti,Wednesday,08:15 - 09:10,CNS-3H-L
+Mr. Kiran Kumar Kaveti,Thursday,12:10 - 01:05,CNS-3H
+Mr. Kiran Kumar Kaveti,Friday,08:15 - 09:10,CNS-3C-L
+Mr. Kiran Kumar Kaveti,Saturday,10:20 - 11:15,CNS-3C
+Mr. Kiran Kumar Kaveti,Saturday,02:00 - 02:55,CNS-3H
+Mrs. V. Anusha,MON,10:20 - 11:15,CNS-3D
+Mrs. V. Anusha,MON,02:00 - 02:55,CNS-3F
+Mrs. V. Anusha,TUE,08:15 - 09:10,CNS-3F(L)
+Mrs. V. Anusha,TUE,09:10 - 10:05,CNS-3F(L)
+Mrs. V. Anusha,WED,10:20 - 11:15,IDP-G
+Mrs. V. Anusha,WED,11:15 - 12:10,IDP-G
+Mrs. V. Anusha,WED,12:10 - 01:05,IDP-D
+Mrs. V. Anusha,THU,08:15 - 09:10,CNS-3D
+Mrs. V. Anusha,THU,10:20 - 11:15,CNS-3F
+Mrs. V. Anusha,FRI,10:20 - 11:15,CNS-3D
+Mrs. V. Anusha,SAT,10:20 - 11:15,CNS-3F
+Mrs. V. Anusha,SAT,11:15 - 12:10,IDP-D
+Mrs. V. Anusha,SAT,12:10 - 01:05,CNS-3D(L)
+Mrs. V. Anusha,SAT,01:05 - 02:00,CNS-3D(L)
+Mr. N. Uttej Kumar,MON,09:10 - 10:05,3G
+Mr. N. Uttej Kumar,MON,02:00 - 02:55,SE-3F
+Mr. N. Uttej Kumar,TUE,08:15 - 09:10,SE-3G
+Mr. N. Uttej Kumar,TUE,02:00 - 02:55,2M
+Mr. N. Uttej Kumar,WED,09:10 - 10:05,SE-3G
+Mr. N. Uttej Kumar,WED,10:20 - 11:15,3F
+Mr. N. Uttej Kumar,THU,10:20 - 11:15,SE-3F
+Mr. N. Uttej Kumar,THU,02:55 - 03:50,SE
+Mr. N. Uttej Kumar,SAT,08:15 - 09:10,SE-3G
+Mr. N. Uttej Kumar,SAT,02:00 - 02:55,2M
+Mr. N. Uttej Kumar,SAT,02:55 - 03:50,SE-3F
+Mr. Sk. Sikindar,MON,08:15 - 09:10,FP
+Mr. Sk. Sikindar,MON,10:20 - 11:15,OS-2F(L)
+Mr. Sk. Sikindar,TUE,02:55 - 03:50,OS-2F
+Mr. Sk. Sikindar,WED,02:55 - 03:50,OS-2M
+Mr. Sk. Sikindar,THU,08:15 - 09:10,OS-2F
+Mr. Sk. Sikindar,THU,10:20 - 11:15,OS-2M
+Mr. Sk. Sikindar,THU,11:15 - 12:10,OS-2F
+Mr. Sk. Sikindar,FRI,08:15 - 09:10,OS-2M
+Mr. Sk. Sikindar,FRI,09:10 - 10:05,OS-F
+Mr. Sk. Sikindar,SAT,10:20 - 11:15,OS-2M(L)
+Mr. Chavva Ravi Kishore Reddy,MON,10:20 - 11:15,IDP
+Mr. Chavva Ravi Kishore Reddy,MON,11:15 - 12:10,IDP
+Mr. Chavva Ravi Kishore Reddy,MON,02:00 - 02:55,AJP
+Mr. Chavva Ravi Kishore Reddy,TUE,11:15 - 12:10,AJP
+Mr. Chavva Ravi Kishore Reddy,TUE,02:00 - 02:55,OS LAB
+Mr. Chavva Ravi Kishore Reddy,TUE,02:55 - 03:50,OS LAB
+Mr. Chavva Ravi Kishore Reddy,THU,11:15 - 12:10,AJP
+Mr. Chavva Ravi Kishore Reddy,THU,02:55 - 03:50,COUNS
+Mr. Chavva Ravi Kishore Reddy,FRI,10:20 - 11:15,AJP LAB
+Mr. Chavva Ravi Kishore Reddy,FRI,11:15 - 12:10,AJP LAB
+Mr. Chavva Ravi Kishore Reddy,FRI,12:10 - 01:05,OS
+Mr. Chavva Ravi Kishore Reddy,SAT,11:15 - 12:10,OS
+Mr. Chavva Ravi Kishore Reddy,SAT,02:00 - 02:55,OS
+Mr. Chavva Ravi Kishore Reddy,SAT,02:55 - 03:50,AJP
+Mr. Sourav Mondal,MON,08:15 - 09:10,3I(IDP)
+Mr. Sourav Mondal,MON,10:20 - 11:15,3G
+Mr. Sourav Mondal,MON,12:10 - 01:05,3G-ML(P)
+Mr. Sourav Mondal,TUE,11:15 - 12:10,3I
+Mr. Sourav Mondal,TUE,02:00 - 02:55,3G
+Mr. Sourav Mondal,WED,11:15 - 12:10,3I
+Mr. Sourav Mondal,THU,11:15 - 12:10,3I
+Mr. Sourav Mondal,FRI,02:55 - 03:50,3I
+Mr. Sourav Mondal,SAT,09:10 - 10:05,3I
+Mr. Sourav Mondal,SAT,02:55 - 03:50,3G (T)
+Mr. Sheik Bhadar Saheb,MON,08:15 - 09:10,IDP-3A
+Mr. Sheik Bhadar Saheb,MON,10:20 - 11:15,IDP-3E
+Mr. Sheik Bhadar Saheb,MON,11:15 - 12:10,CNS-3F
+Mr. Sheik Bhadar Saheb,MON,02:00 - 02:55,CNS-3A
+Mr. Sheik Bhadar Saheb,TUE,10:20 - 11:15,IDP-3C
+Mr. Sheik Bhadar Saheb,TUE,11:15 - 12:10,CNS-3F
+Mr. Sheik Bhadar Saheb,TUE,02:00 - 02:55,CNS(L)-3E
+Mr. Sheik Bhadar Saheb,WED,09:10 - 10:05,CNS-3E
+Mr. Sheik Bhadar Saheb,WED,11:15 - 12:10,CNS-3A
+Mr. Sheik Bhadar Saheb,THU,08:15 - 09:10,CNS-3I
+Mr. Sheik Bhadar Saheb,THU,10:20 - 11:15,CNS-3E
+Mr. Sheik Bhadar Saheb,FRI,08:15 - 09:10,CNS-3I
+Mr. Sheik Bhadar Saheb,FRI,10:20 - 11:15,CNS(L)-3A
+Mr. Sheik Bhadar Saheb,SAT,09:10 - 10:05,CNS-3E
+Mr. Sheik Bhadar Saheb,SAT,10:20 - 11:15,CNS-3A
+Mr. Simhadiri Chinna Gopi,MON,08:15 - 09:10,TOC-2J(T)
+Mr. Simhadiri Chinna Gopi,MON,02:00 - 02:55,TOC-2L
+Mr. Simhadiri Chinna Gopi,TUE,10:20 - 11:15,TOC-2K(T)
+Mr. Simhadiri Chinna Gopi,TUE,02:00 - 02:55,TOC-2J
+Mr. Simhadiri Chinna Gopi,WED,08:15 - 09:10,TOC-2J
+Mr. Simhadiri Chinna Gopi,WED,10:20 - 11:15,TOC-2L
+Mr. Simhadiri Chinna Gopi,THU,09:10 - 10:05,TOC-2K
+Mr. Simhadiri Chinna Gopi,THU,02:00 - 02:55,TOC-2K
+Mr. Simhadiri Chinna Gopi,FRI,10:20 - 11:15,TOC-2J
+Mr. Simhadiri Chinna Gopi,FRI,11:15 - 12:10,COUN
+Mr. Simhadiri Chinna Gopi,FRI,12:10 - 01:05,TOC-2L
+Mr. Simhadiri Chinna Gopi,SAT,09:10 - 10:05,TOC-2K
+Mr. Simhadiri Chinna Gopi,SAT,02:55 - 03:50,TOC-2L(T)
+Ms. K. Anusha,MON,12:10 - 01:05,DAA-2O-P
+Ms. K. Anusha,TUE,08:15 - 09:10,DAA-2I
+Ms. K. Anusha,TUE,02:00 - 02:55,DAA-2O
+Ms. K. Anusha,WED,11:15 - 12:10,DAA-2I-T
+Ms. K. Anusha,THU,08:15 - 09:10,DAA-2O-T
+Ms. K. Anusha,THU,02:55 - 03:50,DAA-2I-P
+Ms. K. Anusha,FRI,11:15 - 12:10,DAA-2I
+Ms. K. Anusha,SAT,11:15 - 12:10,DAA-2O
+Mr. D. Balakotaiah,Monday,10:20 - 11:15,DAA-P
+Mr. D. Balakotaiah,Tuesday,11:15 - 12:10,DAA-T(M)
+Mr. D. Balakotaiah,Tuesday,02:00 - 02:55,DAA-P
+Mr. D. Balakotaiah,Wednesday,08:15 - 09:10,DAA-T(P)
+Mr. D. Balakotaiah,Wednesday,11:15 - 12:10,DAA(M)
+Mr. D. Balakotaiah,Thursday,10:20 - 11:15,DAA-P(M)
+Mr. D. Balakotaiah,Thursday,12:10 - 01:05,Coun
+Mr. D. Balakotaiah,Friday,08:15 - 09:10,DAA-P(P)
+Mr. D. Balakotaiah,Saturday,09:10 - 10:05,DAA(M)
+Mr. S. Suresh Babu,MON,11:15 - 12:10,III ADS-B
+Mr. S. Suresh Babu,TUE,11:15 - 12:10,III-B (IDP)
+Mr. S. Suresh Babu,TUE,12:10 - 01:05,III ADS-B
+Mr. S. Suresh Babu,WED,10:20 - 11:15,III ADS-A
+Mr. S. Suresh Babu,WED,02:00 - 02:55,III ADS-A
+Mr. S. Suresh Babu,THU,08:15 - 09:10,III ADS-A
+Mr. S. Suresh Babu,THU,11:15 - 12:10,III ADS-B
+Mr. S. Suresh Babu,THU,02:55 - 03:50,III-B (IDP)
+Mr. S. Suresh Babu,FRI,10:20 - 11:15,III ADS-B (L)
+Mr. S. Suresh Babu,FRI,12:10 - 01:05,III ADS-A (L)
+Mr. S. Suresh Babu,SAT,08:15 - 09:10,III ADS-A
+Mr. S. Suresh Babu,SAT,02:55 - 03:50,III ADS-B
+Mr. P. Kiran Kumar Raja,Monday,10:20 - 11:15,C Lab-15
+Mr. P. Kiran Kumar Raja,Monday,02:00 - 02:55,C Lab-14
+Mr. P. Kiran Kumar Raja,Tuesday,09:10 - 10:05,PP-15
+Mr. P. Kiran Kumar Raja,Tuesday,11:15 - 12:10,PP-14
+Mr. P. Kiran Kumar Raja,Wednesday,09:10 - 10:05,PP-14
+Mr. P. Kiran Kumar Raja,Wednesday,11:15 - 12:10,PP-15
+Mr. P. Kiran Kumar Raja,Thursday,08:15 - 09:10,PP-Lab 14
+Mr. P. Kiran Kumar Raja,Thursday,02:00 - 02:55,PP-15
+Mr. P. Kiran Kumar Raja,Friday,08:15 - 09:10,PP-Lab 15
+Mr. P. Kiran Kumar Raja,Friday,02:00 - 02:55,PP-14
+Mr. T. Narasimha Rao,Monday,10:05 - 10:20,BREAK
+Mr. T. Narasimha Rao,Monday,10:20 - 11:15,II-L-OS
+Mr. T. Narasimha Rao,Monday,12:10 - 01:05,LUNCH
+Mr. T. Narasimha Rao,Tuesday,10:20 - 11:15,II-L-COUN
+Mr. T. Narasimha Rao,Wednesday,08:15 - 09:10,III-F(IDP)
+Mr. T. Narasimha Rao,Wednesday,09:10 - 10:05,III-F(IDP)
+Mr. T. Narasimha Rao,Wednesday,10:20 - 11:15,II-L-OS LAB
+Mr. T. Narasimha Rao,Wednesday,11:15 - 12:10,II-B-OS LAB
+Mr. T. Narasimha Rao,Thursday,08:15 - 09:10,II-L-OS
+Mr. T. Narasimha Rao,Thursday,09:10 - 10:05,II-L-FP
+Mr. T. Narasimha Rao,Friday,08:15 - 09:10,II-L-FP
+Mr. T. Narasimha Rao,Saturday,09:10 - 10:05,II-B-OS
+Mr. T. Narasimha Rao,Saturday,10:05 - 10:20,II-B-OS
+Mr. T. Narasimha Rao,Saturday,10:20 - 11:15,II-L-OS
+Mr. T. Narasimha Rao,Saturday,12:10 - 01:05,II-M-FP
+Mr. Raveendra Reddy,Monday,09:10 - 10:05,PP Sec-6
+Mr. Raveendra Reddy,Monday,10:05 - 10:20,BREAK
+Mr. Raveendra Reddy,Monday,12:10 - 01:05,LUNCH
+Mr. Raveendra Reddy,Monday,02:00 - 02:55,PP Sec-16
+Mr. Raveendra Reddy,Tuesday,02:00 - 02:55,C Lab
+Mr. Raveendra Reddy,Tuesday,10:20 - 11:15,PP Sec-16
+Mr. Raveendra Reddy,Wednesday,09:10 - 10:05,PP Sec-16
+Mr. Raveendra Reddy,Wednesday,02:00 - 02:55,C Lab
+Mr. Raveendra Reddy,Thursday,02:00 - 02:55,PP Sec-6
+Mr. Raveendra Reddy,Friday,02:00 - 02:55,PP Lab Sec-16
+Mr. Raveendra Reddy,Friday,02:55 - 03:50,PP Sec-6
+Mr. Raveendra Reddy,Saturday,02:00 - 02:55,PP Lab Sec-6
+B. Ravi Teja,Monday,10:05 - 10:20,BREAK
+B. Ravi Teja,Monday,12:10 - 01:05,LUNCH
+B. Ravi Teja,Monday,02:00 - 02:55,DAA(B. SC)
+B. Ravi Teja,Wednesday,09:10 - 10:05,AI&AI(AG)
+B. Ravi Teja,Wednesday,11:15 - 12:10,DAA(B. SC)
+B. Ravi Teja,Wednesday,02:00 - 02:55,AI&AI(AG)
+B. Ravi Teja,Thursday,08:15 - 09:10,AI&AI(AG)
+B. Ravi Teja,Thursday,02:00 - 02:55,DAA(B. SC)
+B. Ravi Teja,Friday,02:00 - 02:55,AI&AI(AG)
+B. Ravi Teja,Saturday,09:10 - 10:05,DAA(B. SC)
+Mr. P. Venkata Rajulu,Monday,10:05 - 10:20,BREAK
+Mr. P. Venkata Rajulu,Monday,10:20 - 11:15,OS-H(406)
+Mr. P. Venkata Rajulu,Monday,11:15 - 12:10,OS-S(515)
+Mr. P. Venkata Rajulu,Monday,12:10 - 01:05,LUNCH
+Mr. P. Venkata Rajulu,Tuesday,02:00 - 02:55,OS-H-L(406)
+Mr. P. Venkata Rajulu,Wednesday,02:00 - 02:55,OS-S(511)
+Mr. P. Venkata Rajulu,Thursday,02:00 - 02:55,OS-H(407)
+Mr. P. Venkata Rajulu,Friday,02:00 - 02:55,OS-S-L(511)
+Mr. P. Venkata Rajulu,Saturday,09:10 - 10:05,OS-S(512)
+Mr. P. Venkata Rajulu,Saturday,02:00 - 02:55,OS-H(406)
+Mr. P. Venkata Rajulu,Saturday,02:55 - 03:50,OS-S(COUN)
+Mrs. Sai Spandana Verella,Monday,10:05 - 10:20,BREAK
+Mrs. Sai Spandana Verella,Monday,10:20 - 11:15,TOC-S
+Mrs. Sai Spandana Verella,Monday,12:10 - 01:05,LUNCH
+Mrs. Sai Spandana Verella,Tuesday,02:00 - 02:55,TOC-S
+Mrs. Sai Spandana Verella,Wednesday,02:00 - 02:55,TOC-E
+Mrs. Sai Spandana Verella,Wednesday,02:55 - 03:50,CCPS
+Mrs. Sai Spandana Verella,Thursday,08:15 - 09:10,TOC-E
+Mrs. Sai Spandana Verella,Thursday,09:10 - 10:05,TOC-E
+Mrs. Sai Spandana Verella,Thursday,02:00 - 02:55,TOC-S
+Mrs. Sai Spandana Verella,Friday,09:10 - 10:05,TOC-E
+Mrs. Sai Spandana Verella,Friday,02:00 - 02:55,TOC-S
+Mrs. Sai Spandana Verella,Saturday,09:10 - 10:05,TOC-E
+Mrs. Sai Spandana Verella,Saturday,02:00 - 02:55,CCPS
+Mrs. Sai Spandana Verella,Saturday,02:55 - 03:50,COUNS
+Mr. Jani Shaik,Monday,10:05 - 10:20,BREAK
+Mr. Jani Shaik,Monday,10:20 - 11:15,PDC-H
+Mr. Jani Shaik,Monday,11:15 - 12:10,PDC-E
+Mr. Jani Shaik,Monday,12:10 - 01:05,LUNCH
+Mr. Jani Shaik,Monday,01:05 - 02:00,BDA-L(M.TECH)
+Mr. Jani Shaik,Tuesday,02:00 - 02:55,PDC-B
+Mr. Jani Shaik,Tuesday,02:55 - 03:50,PDC-E
+Mr. Jani Shaik,Wednesday,02:00 - 02:55,PDC-E
+Mr. Jani Shaik,Wednesday,02:55 - 03:50,PDC-B
+Mr. Jani Shaik,Thursday,08:15 - 09:10,PDC-H
+Mr. Jani Shaik,Friday,02:00 - 02:55,PDC-B
+Mr. Jani Shaik,Saturday,02:00 - 02:55,PDC-B
+Mr. Jani Shaik,Saturday,02:55 - 03:50,PDC-E
+Mrs. V. Nandini,Monday,08:15 - 09:10,DAA-T
+Mrs. V. Nandini,Monday,09:10 - 10:05,DAA-T
+Mrs. V. Nandini,Monday,10:05 - 10:20,BREAK
+Mrs. V. Nandini,Monday,12:10 - 01:05,LUNCH
+Mrs. V. Nandini,Tuesday,09:10 - 10:05,FP
+Mrs. V. Nandini,Tuesday,10:20 - 11:15,DAA
+Mrs. V. Nandini,Tuesday,12:10 - 01:05,COUN
+Mrs. V. Nandini,Tuesday,01:05 - 02:00,DAA
+Mrs. V. Nandini,Wednesday,08:15 - 09:10,DAA
+Mrs. V. Nandini,Wednesday,12:10 - 01:05,NPTEL
+Mrs. V. Nandini,Thursday,02:00 - 02:55,DAA-P
+Mrs. V. Nandini,Thursday,02:55 - 03:50,DAA-P
+Mrs. V. Nandini,Friday,02:00 - 02:55,FP
+Mrs. V. Nandini,Friday,10:20 - 11:15,NPTEL
+Mrs. V. Nandini,Friday,12:10 - 01:05,DAA-T
+Mrs. V. Nandini,Friday,01:05 - 02:00,DAA-T
+Mrs. V. Nandini,Saturday,08:15 - 09:10,DAA-P
+Mrs. V. Nandini,Saturday,09:10 - 10:05,DAA-P
+Mrs. V. Nandini,Saturday,02:00 - 02:55,DAA-T
+Mrs. Archana Nalluri,MON,09:10 - 10:05,PP Sec-21
+Mrs. Archana Nalluri,MON,10:05 - 10:20,BREAK
+Mrs. Archana Nalluri,MON,11:15 - 12:10,PP Sec-20
+Mrs. Archana Nalluri,MON,01:05 - 02:00,LUNCH
+Mrs. Archana Nalluri,TUE,10:05 - 10:20,BREAK
+Mrs. Archana Nalluri,TUE,10:20 - 11:15,PP LAB (Sec-20)
+Mrs. Archana Nalluri,TUE,01:05 - 02:00,LUNCH
+Mrs. Archana Nalluri,WED,08:15 - 09:10,PP Sec-20
+Mrs. Archana Nalluri,WED,10:05 - 10:20,BREAK
+Mrs. Archana Nalluri,WED,01:05 - 02:00,C Lab (Sec-21)
+Mrs. Archana Nalluri,WED,02:00 - 02:55,C Lab (Sec-21)
+Mrs. Archana Nalluri,WED,02:55 - 03:50,C Lab (Sec-21)
+Mrs. Archana Nalluri,THU,09:10 - 10:05,PP Sec-21
+Mrs. Archana Nalluri,THU,10:05 - 10:20,BREAK
+Mrs. Archana Nalluri,THU,01:05 - 02:00,LUNCH
+Mrs. Archana Nalluri,FRI,10:05 - 10:20,BREAK
+Mrs. Archana Nalluri,FRI,10:20 - 11:15,Couns (2nd Year Sec-E)
+Mrs. Archana Nalluri,FRI,11:15 - 12:10,PP Sec-21
+Mrs. Archana Nalluri,FRI,12:10 - 01:05,PP Sec-20
+Mrs. Archana Nalluri,FRI,01:05 - 02:00,PP Sec-20
+Mrs. Archana Nalluri,FRI,02:00 - 02:55,PP Sec-20
+Mrs. Archana Nalluri,SAT,08:15 - 09:10,PP Lab (Sec-21)
+Mrs. Archana Nalluri,SAT,10:05 - 10:20,BREAK
+Mrs. Archana Nalluri,SAT,01:05 - 02:00,LUNCH
+Mrs. Archana Nalluri,SAT,02:00 - 02:55,PP Sec-20
+Mrs. K. Jyostna,MON,10:05 - 10:20,BREAK
+Mrs. K. Jyostna,MON,10:20 - 11:15,TOC-2F
+Mrs. K. Jyostna,MON,12:10 - 01:05,LUNCH
+Mrs. K. Jyostna,TUE,10:20 - 11:15,TOC-2Q
+Mrs. K. Jyostna,TUE,11:15 - 12:10,TOC-2F
+Mrs. K. Jyostna,TUE,12:10 - 01:05,FP
+Mrs. K. Jyostna,WED,11:15 - 12:10,NPTEL
+Mrs. K. Jyostna,WED,12:10 - 01:05,TOC-2Q
+Mrs. K. Jyostna,THU,09:10 - 10:05,TOC-F
+Mrs. K. Jyostna,FRI,09:10 - 10:05,COUNS
+Mrs. K. Jyostna,FRI,02:55 - 03:50,TOC-2Q
+Mrs. K. Jyostna,SAT,08:15 - 09:10,TOC-Q
+Mrs. K. Jyostna,SAT,02:55 - 03:50,TOC-2F
+Mrs. R. Lalitha,MON,08:15 - 09:10,OS-307
+Mrs. R. Lalitha,MON,10:05 - 10:20,BREAK
+Mrs. R. Lalitha,MON,10:20 - 11:15,COUNS
+Mrs. R. Lalitha,MON,12:10 - 01:05,OS
+Mrs. R. Lalitha,TUE,10:20 - 11:15,OS-LAB
+Mrs. R. Lalitha,TUE,12:10 - 01:05,NPTEL
+Mrs. R. Lalitha,WED,12:10 - 01:05,OS-LAB
+Mrs. R. Lalitha,THU,10:20 - 11:15,OS-515
+Mrs. R. Lalitha,FRI,08:15 - 09:10,OS-515
+Mrs. R. Lalitha,SAT,09:10 - 10:05,OS-307
+Mr. G. Veera Bhadra Chary,MON,08:15 - 09:10,PP(9)
+Mr. G. Veera Bhadra Chary,MON,09:10 - 10:05,PP(8)
+Mr. G. Veera Bhadra Chary,MON,10:05 - 10:20,BREAK
+Mr. G. Veera Bhadra Chary,MON,10:20 - 11:15,PP(9)
+Mr. G. Veera Bhadra Chary,MON,11:15 - 12:10,CCPS(II-G)
+Mr. G. Veera Bhadra Chary,MON,12:10 - 01:05,Lunch
+Mr. G. Veera Bhadra Chary,TUE,02:00 - 02:55,C LAB(8) (A-Block IV floor-VBFTF-02)
+Mr. G. Veera Bhadra Chary,WED,08:15 - 09:10,PP(8)
+Mr. G. Veera Bhadra Chary,WED,10:20 - 11:15,PP LAB(9) (A-Block IV floor-VBFTF-03)
+Mr. G. Veera Bhadra Chary,THU,10:20 - 11:15,PP(9)
+Mr. G. Veera Bhadra Chary,THU,02:00 - 02:55,C LAB(9) (A-Block IV floor-VBFTF-02)
+Mr. G. Veera Bhadra Chary,FRI,10:20 - 11:15,PP(8)
+Mr. G. Veera Bhadra Chary,SAT,10:20 - 11:15,PP LAB(8) (A-Block IV floor-VBFTF-03)
+Mr. G. Veera Bhadra Chary,SAT,02:00 - 02:55,COUNS(II-G)
+Mr. N. Brahma Naidu,MON,10:05 - 10:20,BREAK
+Mr. N. Brahma Naidu,MON,10:20 - 11:15,DAA (R)
+Mr. N. Brahma Naidu,MON,12:10 - 01:05,LUNCH
+Mr. N. Brahma Naidu,MON,02:00 - 02:55,DAA-P (F)
+Mr. N. Brahma Naidu,TUE,10:20 - 11:15,DAA-T (R)
+Mr. N. Brahma Naidu,TUE,02:00 - 02:55,DAA (F)
+Mr. N. Brahma Naidu,THU,08:15 - 09:10,DAA-P (R)
+Mr. N. Brahma Naidu,THU,02:55 - 03:50,CCPS (Q)
+Mr. N. Brahma Naidu,FRI,10:20 - 11:15,DAA-T (F)
+Mr. N. Brahma Naidu,SAT,08:15 - 09:10,DAA (R)
+Mr. N. Brahma Naidu,SAT,11:15 - 12:10,DAA (F)
+Mr. Kumar Devapogu,MON,09:10 - 10:05,OS (C)
+Mr. Kumar Devapogu,MON,10:05 - 10:20,BREAK
+Mr. Kumar Devapogu,MON,12:10 - 01:05,LUNCH
+Mr. Kumar Devapogu,MON,01:05 - 02:00,COUNCIL (N)
+Mr. Kumar Devapogu,MON,02:00 - 02:55,OS (N)
+Mr. Kumar Devapogu,TUE,10:20 - 11:15,CCPS
+Mr. Kumar Devapogu,TUE,11:15 - 12:10,CCPS
+Mr. Kumar Devapogu,TUE,02:00 - 02:55,OS-P (N)
+Mr. Kumar Devapogu,TUE,02:55 - 03:50,OS-P (N)
+Mr. Kumar Devapogu,WED,10:20 - 11:15,OS-P (C)
+Mr. Kumar Devapogu,WED,11:15 - 12:10,OS-P (C)
+Mr. Kumar Devapogu,WED,02:00 - 02:55,OS (N)
+Mr. Kumar Devapogu,THU,08:15 - 09:10,OS (C)
+Mr. Kumar Devapogu,SAT,08:15 - 09:10,OS (N)
+Mrs. Koganti Swathi,MON,10:05 - 10:20,BREAK
+Mrs. Koganti Swathi,MON,10:20 - 11:15,OS(P)-sec-k
+Mrs. Koganti Swathi,MON,12:10 - 01:05,LUNCH
+Mrs. Koganti Swathi,TUE,02:00 - 02:55,OS-P
+Mrs. Koganti Swathi,WED,09:10 - 10:05,OS-sec-k
+Mrs. Koganti Swathi,WED,10:20 - 11:15,OS
+Mrs. Koganti Swathi,THU,08:15 - 09:10,OS-sec-k
+Mrs. Koganti Swathi,THU,02:00 - 02:55,FP
+Mrs. Koganti Swathi,FRI,08:15 - 09:10,OS-407
+Mrs. Koganti Swathi,SAT,09:10 - 10:05,OS-sec-k
+Mrs. Koganti Swathi,SAT,02:00 - 02:55,COUNS
+Mrs. Koganti Swathi,SAT,02:55 - 03:50,OS
+Mr. U. Venkateswara Rao,MON,10:05 - 10:20,BREAK
+Mr. U. Venkateswara Rao,MON,10:20 - 11:15,SE(B)
+Mr. U. Venkateswara Rao,MON,11:15 - 12:10,SE(B)
+Mr. U. Venkateswara Rao,MON,12:10 - 01:05,LUNCH
+Mr. U. Venkateswara Rao,MON,02:00 - 02:55,SE(I)
+Mr. U. Venkateswara Rao,MON,02:55 - 03:50,SE(I)
+Mr. U. Venkateswara Rao,TUE,02:00 - 02:55,SE(B)
+Mr. U. Venkateswara Rao,WED,09:10 - 10:05,SE(B)
+Mr. U. Venkateswara Rao,WED,10:20 - 11:15,SE(I)
+Mr. U. Venkateswara Rao,WED,02:00 - 02:55,CCPS
+Mr. U. Venkateswara Rao,WED,02:55 - 03:50,CCPS
+Mr. U. Venkateswara Rao,THU,11:15 - 12:10,CCPS
+Mr. U. Venkateswara Rao,THU,02:00 - 02:55,SE(I)
+Mr. U. Venkateswara Rao,FRI,09:10 - 10:05,SE(B)
+Mr. U. Venkateswara Rao,FRI,11:15 - 12:10,CCPS
+Mr. U. Venkateswara Rao,SAT,08:15 - 09:10,SE(I)
+Mr. U. Venkateswara Rao,SAT,09:10 - 10:05,CCPS
+Mr. U. Venkateswara Rao,SAT,10:20 - 11:15,CCPS
+Mr. Gajjula Murali,MON,10:05 - 10:20,BREAK
+Mr. Gajjula Murali,MON,10:20 - 11:15,DAA
+Mr. Gajjula Murali,MON,11:15 - 12:10,COUN
+Mr. Gajjula Murali,TUE,10:20 - 11:15,DAA (T)
+Mr. Gajjula Murali,TUE,02:00 - 02:55,PP
+Mr. Gajjula Murali,WED,09:10 - 10:05,DAA
+Mr. Gajjula Murali,WED,02:00 - 02:55,C LAB (H-Block II floor--VSF-11)
+Mr. Gajjula Murali,THU,10:20 - 11:15,FP
+Mr. Gajjula Murali,THU,02:00 - 02:55,PP
+Mr. Gajjula Murali,FRI,08:15 - 09:10,PP LAB (A-Block IV floor-VBFTF-03)
+Mr. Gajjula Murali,FRI,10:20 - 11:15,DAA (P)
+Mr. Gajjula Murali,SAT,09:10 - 10:05,PP
+Mr. Gajjula Murali,SAT,02:00 - 02:55,C LAB (A-Block III floor-VBTF-05)
+Mr. Ch. Amaresh,MON,10:05 - 10:20,BREAK
+Mr. Ch. Amaresh,MON,10:20 - 11:15,TOC-2F
+Mr. Ch. Amaresh,MON,02:55 - 03:50,NPTEL-2E
+Mr. Ch. Amaresh,TUE,08:15 - 09:10,NPTEL-2E
+Mr. Ch. Amaresh,TUE,10:20 - 11:15,TOC-2Q
+Mr. Ch. Amaresh,THU,09:10 - 10:05,TOC-2F
+Mr. Ch. Amaresh,FRI,09:10 - 10:05,FOP-2C
+Mr. Ch. Amaresh,FRI,10:20 - 11:15,FOP-2B
+Mr. Ch. Amaresh,FRI,02:00 - 02:55,TOC-2Q
+Mr. Ch. Amaresh,FRI,02:55 - 03:50,TOC-2Q
+Mr. Ch. Amaresh,SAT,08:15 - 09:10,TOC-2Q
+Mr. Ch. Amaresh,SAT,02:00 - 02:55,TOC-2F
+Mr. Ch. Amaresh,SAT,02:55 - 03:50,TOC-2F
+Mr. K. Kiran Kumar,MON,08:15 - 09:10,PP(10)
+Mr. K. Kiran Kumar,MON,10:05 - 10:20,BREAK
+Mr. K. Kiran Kumar,MON,10:20 - 11:15,PP(12)
+Mr. K. Kiran Kumar,MON,11:15 - 12:10,C-LAB
+Mr. K. Kiran Kumar,MON,12:10 - 01:05,LUNCH
+Mr. K. Kiran Kumar,MON,02:00 - 02:55,C-LAB
+Mr. K. Kiran Kumar,MON,02:55 - 03:50,C-LAB
+Mr. K. Kiran Kumar,WED,10:20 - 11:15,PP(10)
+Mr. K. Kiran Kumar,THU,09:10 - 10:05,PP LAB(12)
+Mr. K. Kiran Kumar,THU,10:20 - 11:15,PP LAB(12)
+Mr. K. Kiran Kumar,THU,11:15 - 12:10,PP(10)
+Mr. K. Kiran Kumar,FRI,08:15 - 09:10,PP(12)
+Mr. K. Kiran Kumar,SAT,08:15 - 09:10,PP LAB(10)
+Mr. K. Kiran Kumar,SAT,09:10 - 10:05,PP LAB(10)
+Mr. K. Kiran Kumar,SAT,10:20 - 11:15,PP(12)
+Mr. K. Kiran Kumar,SAT,11:15 - 12:10,C-LAB
+Mr. K. Kiran Kumar,SAT,02:00 - 02:55,C-LAB
+Mr. K. Kiran Kumar,SAT,02:55 - 03:50,C-LAB
+Mr. Y. Ram Mohan,MON,10:05 - 10:20,BREAK
+Mr. Y. Ram Mohan,MON,10:20 - 11:15,ACC (II BT)
+Mr. Y. Ram Mohan,MON,12:10 - 01:05,LUNCH
+Mr. Y. Ram Mohan,MON,02:00 - 02:55,OE (II BT)
+Mr. Y. Ram Mohan,TUE,02:00 - 02:55,OE (BT)
+Mr. Y. Ram Mohan,WED,10:20 - 11:15,ACC (BT)
+Mr. Y. Ram Mohan,FRI,09:10 - 10:05,ACC (II EEE)
+Mr. B. Anil Babu,MON,08:15 - 09:10,OS P
+Mr. B. Anil Babu,MON,10:05 - 10:20,BREAK
+Mr. B. Anil Babu,MON,10:20 - 11:15,COUNS
+Mr. B. Anil Babu,MON,02:00 - 02:55,OS J LAB
+Mr. B. Anil Babu,TUE,10:20 - 11:15,OS P
+Mr. B. Anil Babu,WED,02:55 - 03:50,OS P LAB
+Mr. B. Anil Babu,THU,10:20 - 11:15,OS J
+Mr. B. Anil Babu,FRI,10:20 - 11:15,CCPS M
+Mr. B. Anil Babu,FRI,02:00 - 02:55,OS P
+Mr. B. Anil Babu,SAT,10:20 - 11:15,OS J
+Mrs. S. Anitha,MON,10:05 - 10:20,BREAK
+Mrs. S. Anitha,MON,02:00 - 02:55,DDIA(OE)
+Mrs. S. Anitha,TUE,02:00 - 02:55,DDIA(OE)
+Mrs. S. Anitha,WED,02:00 - 02:55,WT(MINORS)
+Mrs. S. Anitha,THU,02:00 - 02:55,WT(MINORS)
+Mrs. S. Anitha,FRI,11:15 - 12:10,COUN
+Mrs. S. Anitha,FRI,02:00 - 02:55,WT(MINORS)
+Mrs. S. Anitha,SAT,02:00 - 02:55,CCPS
+Mrs. D. Tipura,MON,10:05 - 10:20,BREAK
+Mrs. D. Tipura,MON,12:10 - 01:05,BREAK
+Mrs. D. Tipura,MON,02:00 - 02:55,TOC-T 2I
+Mrs. D. Tipura,TUE,09:10 - 10:05,TOC 2R
+Mrs. D. Tipura,TUE,11:15 - 12:10,TOC 2R
+Mrs. D. Tipura,WED,10:20 - 11:15,TOC 2I
+Mrs. D. Tipura,THU,08:15 - 09:10,TOC 2I
+Mrs. D. Tipura,THU,10:20 - 11:15,TOC 2R
+Mrs. D. Tipura,SAT,08:15 - 09:10,TOC 2IANU
+Mrs. D. Tipura,SAT,10:20 - 11:15,TOC-T 2R
+Mrs. Tanigundala Leelavathy,MON,10:05 - 10:20,BREAK
+Mrs. Tanigundala Leelavathy,MON,11:15 - 12:10,TOC(N)
+Mrs. Tanigundala Leelavathy,MON,02:00 - 02:55,COUN(N)
+Mrs. Tanigundala Leelavathy,TUE,12:10 - 01:05,TOC(G)
+Mrs. Tanigundala Leelavathy,WED,12:10 - 01:05,TOC(N)
+Mrs. Tanigundala Leelavathy,WED,02:00 - 02:55,TOC(T)-(G)
+Mrs. Tanigundala Leelavathy,THU,10:20 - 11:15,TOC(G)
+Mrs. Tanigundala Leelavathy,THU,12:10 - 01:05,TOC(N)
+Mrs. Tanigundala Leelavathy,FRI,08:15 - 09:10,FP(H)
+Mrs. Tanigundala Leelavathy,FRI,11:15 - 12:10,TOC-T(N)
+Mrs. Tanigundala Leelavathy,SAT,08:15 - 09:10,TOC(G)
+Mrs. Tanigundala Leelavathy,SAT,11:15 - 12:10,CCPS(H)
+Mrs. Tanigundala Leelavathy,SAT,12:10 - 01:05,CCPS(H)
+Mrs. Ch. Swarna Lalitha,MON,10:05 - 10:20,BREAK
+Mrs. Ch. Swarna Lalitha,WED,10:20 - 11:15,CCPS
+Mrs. Ch. Swarna Lalitha,WED,11:15 - 12:10,CCPS
+Mrs. Ch. Swarna Lalitha,THU,12:10 - 01:05,NPTEL
+Mrs. Ch. Swarna Lalitha,FRI,08:15 - 09:10,NPTEL
+Mrs. Ch. Swarna Lalitha,SAT,08:15 - 09:10,CCPS
+Mrs. Ch. Swarna Lalitha,SAT,09:10 - 10:05,CCPS
+Mrs. Ch. Swarna Lalitha,SAT,10:20 - 11:15,CCPS
+Mrs. Ch. Swarna Lalitha,SAT,11:15 - 12:10,CCPS
+Dr. D. Yakobu,MON,09:10 - 10:05,SE-3A
+Dr. D. Yakobu,MON,10:05 - 10:20,BREAK
+Dr. D. Yakobu,THU,09:10 - 10:05,SE-3A
+Dr. D. Yakobu,THU,02:55 - 03:50,SE-3E
+Dr. D. Yakobu,FRI,10:20 - 11:15,SE-3E
+Dr. D. Yakobu,SAT,09:10 - 10:05,SE-3A
+Dr. D. Yakobu,SAT,11:15 - 12:10,SE-3E
+M. Sumalatha,MON,10:20 - 12:10,PP LAB(5)
+M. Sumalatha,TUE,10:20 - 12:10,PP LAB(11)
+M. Sumalatha,WED,08:15 - 09:10,PP(11)
+M. Sumalatha,WED,09:10 - 10:05,PP(5)
+M. Sumalatha,WED,10:20 - 11:15,C LAB(5)
+M. Sumalatha,THU,08:15 - 09:10,PP(11)
+M. Sumalatha,THU,09:10 - 10:05,PP(5)
+M. Sumalatha,THU,10:20 - 11:15,PP(5)
+M. Sumalatha,FRI,10:20 - 11:15,C LAB(5)
+M. Sumalatha,FRI,11:15 - 12:10,PP(11)
+M. Sumalatha,FRI,12:10 - 01:05,C LAB(11)
+Mrs. P Mounika,MON,10:05 - 10:20,BREAK
+Mrs. P Mounika,MON,12:10 - 01:05,LUNCH
+Mrs. P Mounika,WED,10:20 - 11:15,PDC
+Mrs. P Mounika,FRI,08:15 - 09:10,PDC(T)
